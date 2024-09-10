@@ -44,7 +44,6 @@ Only for Indian Number (+91)
 ## You may also like...
 
 - [Download Now](https://bit.ly/flashbomberlink) - Flash Bomber Apk
-- [Hackstore](https://sites.google.com/view/hackstoreapk) - A Hackstore Apk
-- [Bhai4You Blog](https://bhai4you.blogspot.com) - Bhai4you Blog
+
 
 
