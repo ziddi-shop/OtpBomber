@@ -31,7 +31,7 @@ Or
 
 ```
 pkg install git -y &&
-git clone https://github.com/z1dd1/OtpBomber.git &&
+git clone https://github.com/ziddi-shop/OtpBomber.git &&
 cd otpbomber &&
 bash smsbomb.sh
 ```
